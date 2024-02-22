@@ -19,4 +19,4 @@ Currently working on Portfolio Projects such as a 2.5D Sidescroller!
 
 
 ## 🛠 Skills
-Java, C#, Basic HTML, Basic CSS, Basic JS, 3D-Modelling, Game Design 
+Java, C#, Basic HTML, Basic CSS, Basic JS, 3D-Modelling, Game Design, MySQL, CPanel, Domain Management
