@@ -6,7 +6,7 @@ Welcome to my very humble Github Profile!
 
 ## 🚀 About Me
 One word: auto-didact (Or is that two?)
-All you see on this Github Profile is self-learnt and self-taught and began a few many years ago with Minecraft Java Modding!
+All you see on this Github Profile is self-learned and self-taught and began a few many years ago with Minecraft Java Modding!
 
 
 ## 📊 Github Statistics
