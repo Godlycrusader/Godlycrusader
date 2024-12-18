@@ -11,13 +11,11 @@ All you see on this Github Profile is self-learned and self-taught and began a f
 
 ## 📊 Github Statistics
 
-Currently working on Portfolio Projects such as a 2.5D Sidescroller!
-
 [![mesalamat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mesalamat&theme=cobalt&hide_rank=true)](https://github.com/mesalamat/github-readme-stats)
 
 
 
 
 ## 🛠 Skills
-Java, C#, Basic HTML, Basic CSS, Basic JS, Simple 3D-Modelling
+Java, C#, JavaScript, React, Maven, GitHub, Simple 3D-Modelling
 
