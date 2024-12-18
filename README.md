@@ -17,5 +17,5 @@ All you see on this Github Profile is self-learned and self-taught and began a f
 
 
 ## 🛠 Skills
-Java, C#, JavaScript, React, Maven, GitHub, Simple 3D-Modelling
+Java, C#, JavaScript, React, Maven, Git, Simple 3D-Modelling
 
